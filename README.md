@@ -1,5 +1,7 @@
+![logo](https://github.com/xajayy/xajayy/blob/main/ajay%20kumar%20(2).png)
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img alig="right" alt="coding"width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xajayy" alt="xajayy" /></a> </p>
